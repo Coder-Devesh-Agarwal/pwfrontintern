@@ -1,0 +1,6 @@
+{
+	"appId": "com.pwintern.angular",
+	"appName": "pwfrontintern",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
